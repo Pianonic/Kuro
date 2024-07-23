@@ -1,6 +1,6 @@
 # 🎮🤖 Gurl Ai: The Future of Streaming on Twitch! 🌟
 
-Welcome to **Gurl_Ai**, an innovative AI-powered virtual streamer designed to interact with you on Twitch! 🌐💬
+Welcome to **Gurl Ai**, an innovative AI-powered virtual streamer designed to interact with you on Twitch! 🌐💬
 
 ## What is Gurl_Ai? 🤔
 
