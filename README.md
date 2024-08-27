@@ -1,21 +1,42 @@
-# 🎮🤖 Gurl Ai: The Future of Streaming on Twitch! 🌟
+# Gurl_AI 🤖💬
 
-Welcome to **Gurl Ai**, an innovative AI-powered virtual streamer designed to interact with you on Twitch! 🌐💬
+Gurl_AI is a Discord bot designed to simulate conversations with an AI-powered virtual girl in voice channels. This bot leverages advanced AI to provide engaging and interactive experiences for users.
 
-## What is Gurl_Ai? 🤔
+## Features ✨
 
-Gurl_Ai is a cutting-edge AI_women character that engages with the chat using lifelike mouth movements. 👄✨ 
+- **Voice Conversations** 🎙️: Engage in real-time voice conversations with the AI.
+- **Customizable Responses** 🎭: Tailor the AI's responses to suit different personalities and moods.
+- **Interactive Commands** 🛠️: Use a variety of commands to interact with the AI.
+- **Seamless Integration** 🔗: Easy to set up and integrate into your Discord server.
 
-## Features 🚀
+## Installation 🛠️
 
-- **Interactive Chat**: Engages with viewers in real-time with natural conversations. 🗣️💬
-- **Realistic Movements**: Mouth movement synced with speech for a realistic streaming experience. 😲🎤
-- **Twitch Integration**: Seamlessly integrates with Twitch for an immersive streaming experience. 🔗📺
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/yourusername/Gurl_AI.git
+    cd Gurl_AI
+    ```
 
-## Join the Adventure! 🚀🎉
+2. **Install Dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-Stay tuned for live streams, updates, and more! Follow Gurl_Ai on Twitch and be part of the revolution in streaming. 🌟👾
+3. **Set Up Environment Variables**:
+    Create a `.env` file in the root directory and add your Discord bot token:
+    ```env
+    DISCORD_TOKEN=your_discord_bot_token
+    ```
 
-[Follow Gurl_Ai on Twitch!](https://www.twitch.tv/gurl_ai) 
+4. **Run the Bot**:
+    ```bash
+    python bot.py
+    ```
 
-Let’s make streaming more engaging and fun together! 🌟🎉
+## Usage 🚀
+
+Invite the bot to your server using the invite link generated from the Discord Developer Portal. Once the bot is in your server, use the following commands to interact with it:
+
+- `!startvc` 🎙️: Start a voice conversation with the AI.
+- `!stopvc` 🛑: End the voice conversation.
+- `!help` 📜: Display a list of available commands.
