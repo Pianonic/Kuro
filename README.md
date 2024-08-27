@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Pianonic/Kuro/blob/main/images/KuroEmptyBackground.png?raw=true" alt="PianoNic's Music Bot" width="200"/>
+  <img src="https://github.com/Pianonic/Kuro/blob/main/images/Kuro.png?raw=true" alt="PianoNic's Music Bot" width="200"/>
 </p>
 
 
