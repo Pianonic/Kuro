@@ -1,18 +1,16 @@
 # Gurl_AI 🤖💬
 
-Gurl_AI is a Discord bot designed to simulate conversations with an AI-powered virtual girl in voice channels. This bot leverages advanced AI to provide engaging and interactive experiences for users.
+**Gurl_AI**: Your friendly AI-powered virtual girl for engaging voice and text conversations. Customize her personality and use various commands to interact. Easy setup and seamless integration into your server. Enjoy real-time chats and have fun! 🎉
 
 ## Features ✨
 
-- **Voice Conversations** 🎙️: Engage in real-time voice conversations with the AI.
-- **Customizable Responses** 🎭: Tailor the AI's responses to suit different personalities and moods.
-- **Interactive Commands** 🛠️: Use a variety of commands to interact with the AI.
-- **Seamless Integration** 🔗: Easy to set up and integrate into your Discord server.
+- **Real-Time Conversations**: Engage in voice and text chats with Gurl_AI. 🗣️💬
+- **Customizable Personality**: Adjust her personality and mood to your liking. 🎭
+- **Interactive Commands**: Use various commands to interact and have fun. 🎮
+- **Easy Setup**: Simple and quick integration into your server. ⚙️
 
-## Usage 🚀
+## Usage 📚
 
-Invite the bot to your server using the invite link generated from the Discord Developer Portal. Once the bot is in your server, use the following commands to interact with it:
-
-- `!startvc` 🎙️: Start a voice conversation with the AI.
-- `!stopvc` 🛑: End the voice conversation.
-- `!help` 📜: Display a list of available commands.
+- **Voice Commands**: Interact with Gurl_AI using voice commands in real-time. 🎙️
+- **Text Commands**: Use text commands to chat and interact. 💬
+- **Customization**: Adjust Gurl_AI's personality and mood through settings. 🎛️
