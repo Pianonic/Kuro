@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Pianonic/Kuro/blob/main/images/KuroEmptyBackground.png?raw=true" alt="PianoNic's Music Bot" width="200"/>
+</p>
+
+
 # Kuro 👧🤖💬
 
 **Kuro**: Your friendly AI-powered virtual assistant for engaging voice and text conversations. Customize her personality and use various commands to interact. Easy setup and seamless integration into your server. Enjoy real-time chats and have fun! 🎉
