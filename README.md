@@ -16,6 +16,6 @@
 
 ## Usage 📚
 
-- **Voice Commands**: Interact with Kuro_AI using voice commands in real-time. 🎙️
+- **Voice Commands**: Interact with Kuro using voice commands in real-time. 🎙️
 - **Text Commands**: Use text commands to chat and interact. 💬
-- **Customization**: Adjust Kuro_AI's personality and mood through settings. 🎛️
+- **Customization**: Adjust Kuro's personality and mood through settings. 🎛️
