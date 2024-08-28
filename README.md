@@ -9,8 +9,8 @@
 
 ## Features ✨
 
-- **Real-Time Conversations**: Engage in voice and text chats with Kuro_AI. 🗣️💬
-- **Customizable Personality**: Adjust her personality and mood to your liking. 🎭
+- **Real-Time Conversations**: Engage in voice and text chats with Kuro. 🗣️💬
+- **Customizable Personality**: Adjust her personality to your liking. 🎭
 - **Interactive Commands**: Use various commands to interact and have fun. 🎮
 - **Easy Setup**: Simple and quick integration into your server. ⚙️
 
